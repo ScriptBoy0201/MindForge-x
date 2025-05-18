@@ -1,11 +1,12 @@
 import React from 'react';
-import MoodSleepTracker from './MoodSleepTracker';
 
 function App() {
   return (
     <div>
       <h1>MindForge X</h1>
-      <MoodSleepTracker />
+      <p>🔥 This is a test. If you see this, React is rendering correctly.</p>
     </div>
   );
 }
+
+export default App;
