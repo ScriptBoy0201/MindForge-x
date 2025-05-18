@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 
 export default function MoodSleepTracker() {
+console.log("MoodSleepTracker is rendering");
+  
   const [mood, setMood] = useState("");
   const [sleep, setSleep] = useState("");
   const [entries, setEntries] = useState([]);
