@@ -1,9 +1,12 @@
-
 import React from 'react';
 import MindForgeDashboard from './MindForgeDashboard';
 
 function App() {
-  return <MindForgeDashboard />;
+  return (
+    <div>
+      <MindForgeDashboard />
+    </div>
+  );
 }
 
 export default App;
