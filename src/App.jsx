@@ -1,5 +1,5 @@
 import React from 'react';
-import MoodSleepTracker from './src/MoodSleepTracker';
+import MoodSleepTracker from './MoodSleepTracker';
 
 function App() {
   return (
