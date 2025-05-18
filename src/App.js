@@ -1,10 +1,11 @@
 import React from 'react';
-import MindForgeDashboard from './MindForgeDashboard';
+import MoodSleepTracker from './MoodSleepTracker';
 
 function App() {
   return (
     <div>
-      <MindForgeDashboard />
+      <h1>MindForge X</h1>
+      <MoodSleepTracker />
     </div>
   );
 }
